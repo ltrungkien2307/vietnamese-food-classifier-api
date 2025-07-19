@@ -303,7 +303,7 @@ def get_classes():
     except Exception as e:
         logger.error(f"❌ Error getting classes: {str(e)}")
         return jsonify({
-            'error': 'Failed to get classes',
+            'error': 'Failed to get classe',
             'message': str(e)
         }), 500
 
