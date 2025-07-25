@@ -22,9 +22,9 @@ wheels/
 
 # Environment variables
 .env
-.venv
+
 env/
-venv/
+
 ENV/
 
 # IDE
